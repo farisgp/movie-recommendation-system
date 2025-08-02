@@ -89,7 +89,6 @@ Melihat 5 informasi pertama dalam dataset dengan menggunakan fungsi `ratings.hea
 | 1      | 6       | 4.0    | 964982224 |
 | 1      | 47      | 5.0    | 964983815 |
 | 1      | 50      | 5.0    | 964982931 |
-                                |
 
 Berikut visualisasi dari dataset ratings.csv
 ![image](distribusirating.PNG)
